@@ -1,0 +1,17 @@
+Content-Type: text/plain; charset=utf-8
+Content-Encoding: gzip
+X-Frame-Options: SAMEORIGIN
+X-Request-Guid: 5c695355-4815-4918-8cf0-46a4bee0f092
+Strict-Transport-Security: max-age=15552000
+Accept-Ranges: bytes
+Date: Sat, 10 Mar 2018 19:34:09 GMT
+Via: 1.1 varnish
+Age: 0
+X-Served-By: cache-ewr18142-EWR
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1520710450.538244,VS0,VE4
+Vary: Accept-Encoding,Fastly-SSL
+X-Dns-Prefetch-Control: off
+Set-Cookie: prov=91421881-3c95-43ce-8adb-a2f6e7c8abeb; domain=.stackoverflow.com; expires=Fri, 01-Jan-2055 00:00:00 GMT; path=/; HttpOnly
+Cache-Control: private
